@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python + Web Dev<br>🌱 I’m currently learning in CS UET LHR<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Python + Web Dev<br>🌱 I’m currently learning in CS UET LHR<br>💬 Ask me about<br>⚡ 
 
 
 ## 🌐 Socials:
