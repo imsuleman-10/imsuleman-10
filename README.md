@@ -18,14 +18,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark" alt="Suleman's GitHub Stats" />
-</p>
+![Suleman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark&count_private=true&cache_seconds=1800)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsuleman-10&theme=dark" alt="Suleman's Streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark&cache_seconds=1800)
+
+![Suleman's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imsuleman-10&theme=dark)
