@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://instagram.com/imsuleman.10" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://x.com/Imsulemanzaheer" target="_blank">
     <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
@@ -57,15 +57,18 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark&count_private=true&cache_seconds=1800" width="100%" alt="Suleman's GitHub Stats" />
+      <!-- GitHub Metrics (Alternative for general stats) -->
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark" width="100%" alt="Suleman's GitHub Stats" />
     </td>
     <td width="50%">
+      <!-- GitHub Streak (Working Server) -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsuleman-10&theme=dark" width="100%" alt="Suleman's GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark&cache_seconds=1800" width="60%" alt="Top Languages" />
+      <!-- Top Languages alternative cloud-url -->
+      <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark" width="60%" alt="Top Languages" />
     </td>
   </tr>
 </table>
