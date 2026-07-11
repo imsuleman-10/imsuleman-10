@@ -54,13 +54,11 @@
 
 ## 📊 GitHub Performance Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark&cache_seconds=86400" alt="Suleman's GitHub Stats" style="padding-right: 10px;" />
-  <img src="https://streak-stats.demolab.com/?user=imsuleman-10&theme=dark&cache_seconds=86400" alt="Suleman's GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark&v=2" alt="Suleman's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=imsuleman-10&theme=dark&v=2" alt="Suleman's GitHub Streak" width="48%" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark&cache_seconds=86400" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark&v=2" alt="Top Languages" />
+</p>
