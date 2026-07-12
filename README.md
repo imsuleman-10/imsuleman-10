@@ -91,12 +91,12 @@
 ## 📊 GitHub Performance Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Suleman's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=imsuleman-10&theme=dark&hide_border=true&background=0D1117" alt="Suleman's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=imsuleman-10&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&v=4" alt="Suleman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsuleman-10&theme=dark&hide_border=true&background=0D1117&v=4" alt="Suleman's GitHub Streak" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=imsuleman-10&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&v=4" alt="Top Languages" />
 </div>
