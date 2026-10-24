@@ -8,6 +8,9 @@
   <a href="https://suleman-zaheer.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Official%20Portfolio-suleman--zaheer.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://en.wikipedia.org/wiki/User:Imsuleman" target="_blank">
+    <img src="https://img.shields.io/badge/Wikipedia%20Profile-User%3AImsuleman-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia" />
+  </a>
   <a href="https://www.wikidata.org/wiki/Q141839182" target="_blank">
     <img src="https://img.shields.io/badge/Wikidata%20Entity-Q141839182-339966?style=for-the-badge&logo=wikidata&logoColor=white" alt="Wikidata" />
   </a>
@@ -20,11 +23,12 @@
 
 ## 🏛️ Official Entity & Professional Profile
 
-> **Suleman Zaheer** (Muhammad Suleman Zaheer Mughal / سلیمان ظہیر) is a Pakistani Lead Software Engineer, Technology Entrepreneur, and founder of **[SAMStack Studio](https://suleman-zaheer.vercel.app/)** based in Lahore, Punjab, Pakistan.
+> **Suleman Zaheer** (Muhammad Suleman Zaheer Mughal / سلیمان ظہیر) is a Pakistani Lead Software Engineer, Technology Researcher, Writer, and Urdu Poet. He is the founder and principal architect of **[SAMStack Studio](https://suleman-zaheer.vercel.app/)** based in Lahore, Punjab, Pakistan.
 
 * 📍 **Headquarters:** Shahdara Town, Lahore, Punjab, Pakistan (`31.6084° N, 74.2833° E`)
 * 🎓 **Alma Mater:** Computer Science @ **[University of Engineering and Technology (UET), Lahore](https://uet.edu.pk/)**
 * 🏢 **Organization:** Founder & Lead Architect at **SAMStack Studio**
+* 🌐 **Wikipedia Official Profile:** [User:Imsuleman on English Wikipedia](https://en.wikipedia.org/wiki/User:Imsuleman)
 * 🆔 **Knowledge Graph Entity:** [Wikidata Item Q141839182](https://www.wikidata.org/wiki/Q141839182)
 * 🔗 **Canonical Digital Bio:** [https://suleman-zaheer.vercel.app/bio](https://suleman-zaheer.vercel.app/bio)
 * 📰 **Official Press Room:** [https://suleman-zaheer.vercel.app/press](https://suleman-zaheer.vercel.app/press)
@@ -35,6 +39,9 @@
 ## 🌐 Connect & Verification Channels:
 
 <div align="center">
+  <a href="https://en.wikipedia.org/wiki/User:Imsuleman" target="_blank">
+    <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Wikipedia" />
+  </a>
   <a href="https://suleman-zaheer.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
