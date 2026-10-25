@@ -29,14 +29,14 @@
 * 🎓 **Alma Mater:** Computer Science @ **[University of Engineering and Technology (UET), Lahore](https://uet.edu.pk/)**
 * 🏢 **Organization:** Founder & Lead Architect at **SAMStack Studio**
 * 🌐 **Wikipedia Official Profile:** [User:Imsuleman on English Wikipedia](https://en.wikipedia.org/wiki/User:Imsuleman)
-* 🆔 **Knowledge Graph Entity:** [Wikidata Item Q141839182](https://www.wikidata.org/wiki/Q141839182)
+* 🗃️ **Knowledge Graph Entity:** [Wikidata Item Q141839182](https://www.wikidata.org/wiki/Q141839182)
 * 🔗 **Canonical Digital Bio:** [https://suleman-zaheer.vercel.app/bio](https://suleman-zaheer.vercel.app/bio)
 * 📰 **Official Press Room:** [https://suleman-zaheer.vercel.app/press](https://suleman-zaheer.vercel.app/press)
 * 📜 **Full Curriculum Vitae:** [https://suleman-zaheer.vercel.app/cv](https://suleman-zaheer.vercel.app/cv)
 
 ---
 
-## 🌐 Connect & Verification Channels:
+## 🌐 Connect & Verification Channels
 
 <div align="center">
   <a href="https://en.wikipedia.org/wiki/User:Imsuleman" target="_blank">
@@ -75,7 +75,7 @@
 * **MongoDB, PostgreSQL, MySQL, Supabase, Firebase**
 
 ### 📱 Cross-Platform Mobile Applications
-* **Flutter & Dart:** Native-feel iOS & Android applications with offline-first caching, push notifications, and payment gateways (Stripe, JazzCash, EasyPaisa).
+* **Flutter & Dart:** Native iOS & Android applications with offline-first caching, push notifications, and payment gateways (Stripe, JazzCash, EasyPaisa).
 
 ### 🖥️ Cross-Platform Desktop Software
 * **Electron.js & React:** Windows `.exe`, macOS, and Linux software. Point-of-Sale (POS) systems, offline ERPs, inventory management tools with SQLite/IndexedDB.
@@ -90,7 +90,7 @@
 
 ---
 
-## 📊 GitHub Analytics:
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=imsuleman-10&show_icons=true&theme=tokyonight&hide_border=true" alt="Suleman's GitHub Stats" width="48%" />
