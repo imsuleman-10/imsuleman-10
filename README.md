@@ -28,8 +28,6 @@
 * 📍 **Headquarters:** Shahdara Town, Lahore, Punjab, Pakistan (`31.6084° N, 74.2833° E`)
 * 🎓 **Alma Mater:** Computer Science @ **[University of Engineering and Technology (UET), Lahore](https://uet.edu.pk/)**
 * 🏢 **Organization:** Founder & Lead Architect at **SAMStack Studio**
-* 🌐 **Wikipedia Official Profile:** [User:Imsuleman on English Wikipedia](https://en.wikipedia.org/wiki/User:Imsuleman)
-* 🗃️ **Knowledge Graph Entity:** [Wikidata Item Q141839182](https://www.wikidata.org/wiki/Q141839182)
 * 🔗 **Canonical Digital Bio:** [https://suleman-zaheer.vercel.app/bio](https://suleman-zaheer.vercel.app/bio)
 * 📰 **Official Press Room:** [https://suleman-zaheer.vercel.app/press](https://suleman-zaheer.vercel.app/press)
 * 📜 **Full Curriculum Vitae:** [https://suleman-zaheer.vercel.app/cv](https://suleman-zaheer.vercel.app/cv)
