@@ -98,6 +98,34 @@ I am a **Systems Architect & Full-Stack Engineer** focused on building reliable,
 
 ---
 
+### 🏆 Official GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/imsuleman-10?tab=achievements">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="65" height="65" alt="Pull Shark Achievement" title="Pull Shark" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="65" height="65" alt="Quickdraw Achievement" title="Quickdraw" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="65" height="65" alt="Pair Extraordinaire Achievement" title="Pair Extraordinaire" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="65" height="65" alt="YOLO Achievement" title="YOLO" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="65" height="65" alt="Starstruck Achievement" title="Starstruck" />
+</a>
+
+<br/><br/>
+
+[![Pull Shark](https://img.shields.io/badge/Achievement-Pull_Shark-FF8000?style=flat-square&logo=github&logoColor=white)](https://github.com/imsuleman-10?tab=achievements)
+[![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-2EA44F?style=flat-square&logo=github&logoColor=white)](https://github.com/imsuleman-10?tab=achievements)
+[![Pair Extraordinaire](https://img.shields.io/badge/Achievement-Pair_Extraordinaire-A371F7?style=flat-square&logo=github&logoColor=white)](https://github.com/imsuleman-10?tab=achievements)
+[![YOLO](https://img.shields.io/badge/Achievement-YOLO-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/imsuleman-10?tab=achievements)
+[![Starstruck](https://img.shields.io/badge/Achievement-Starstruck-F28B82?style=flat-square&logo=github&logoColor=white)](https://github.com/imsuleman-10?tab=achievements)
+
+</div>
+
+---
+
 ### 📊 GitHub Engineering Metrics & Analytics
 
 <div align="center">
